@@ -1,0 +1,9 @@
+﻿  PA8Functions.cpp
+C:\Users\mike2\source\repos\PA8Poly\PA8\PA8Functions.cpp(27,12): warning C4101: 'checkTheirChoice': unreferenced local variable
+C:\Users\mike2\source\repos\PA8Poly\PA8\PA8Functions.cpp(207,12): warning C4552: '+': result of expression not used
+C:\Users\mike2\source\repos\PA8Poly\PA8\PA8Functions.cpp(212,12): warning C4552: '-': result of expression not used
+C:\Users\mike2\source\repos\PA8Poly\PA8\PA8Functions.cpp(414,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\mike2\source\repos\PA8Poly\PA8\PA8Functions.cpp(421,11): warning C4101: 'height': unreferenced local variable
+C:\Users\mike2\source\repos\PA8Poly\PA8\PA8Functions.cpp(421,6): warning C4101: 'len': unreferenced local variable
+C:\Users\mike2\source\repos\PA8Poly\PA8\PA8Functions.cpp(327): warning C4715: 'characterChooser': not all control paths return a value
+  PA8.vcxproj -> C:\Users\mike2\source\repos\PA8Poly\Debug\PA8.exe
